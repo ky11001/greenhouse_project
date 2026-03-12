@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.egg-info/
+
+
+# IDEs
+.idea/
+.vscode/
+
+# XMem dependency (cloned separately)
+XMem/
+
+# Example data (demonstrations and test data)
+assets/
+assets/demonstrations/
+assets/inference_example/
+assets/demonstrations.zip
+assets/inference_example.zip
+
+# Generated files
+assets/example_visualisations/
+
+
+*.hdf5
