@@ -22,6 +22,10 @@ assets/inference_example.zip
 assets/example_visualisations/
 
 
+/greenhouse_data
+/greenhouse_data_baseline
+/act_data
+
 *.hdf5
 *.npy
 *.zip
