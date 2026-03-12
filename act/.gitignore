@@ -139,6 +139,10 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+/greenhouse_data
+/greenhouse_data_baseline
+/act_data
+
 *.hdf5
 *.npy
 *.zip
